@@ -1,6 +1,6 @@
 # The Urban Palate — Food Delivery SQL Analytics
 
-A end-to-end SQL analytics project simulating real business questions for a food delivery platform (Swiggy / Zomato style). Built to demonstrate data analyst SQL skills across clauses, JOINs, CTEs, and window functions.
+An end-to-end SQL analytics project simulating real business questions for a food delivery platform (Swiggy / Zomato style). Built to demonstrate data analyst SQL skills across clauses, JOINs, CTEs, and window functions.
 
 ---
 
