@@ -87,4 +87,4 @@ SOURCE analysis.sql; -- runs all 8 analyses
 
 ---
 
-*Part of a data analyst portfolio. Open to analyst roles — connect on LinkedIn.*
+*Part of a data analyst portfolio. Open to analyst roles.*
